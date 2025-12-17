@@ -251,17 +251,38 @@ In postmodern thought, identity is **fragmented**, fluid, and constructed—not 
   - There is **no stable core** or "true self"; instead, the self is like an **onion** with layers but no center.
   - Influenced by theorists such as **Michel Foucault** (power and subjectivity), **Jacques Lacan** (the split subject), and **Judith Butler** (gender performativity).
 
-- **Stable Identity (*Identitate stabilă*):**
-  - Associated with **modernism** and premodern thought (e.g., Descartes, essentialism).
-  - Assumes a **unified, continuous, and coherent self**—an inner essence or soul that remains consistent over time.
-  - Identity is seen as **innate, authentic, and discoverable** through introspection or reason.
+### Key Metaphors and Concepts of the Fragmented Self (from the slides):
 
-### Bonus: Type of Ontology – Weak vs. Strong
-Postmodernism advocates a **weak ontology**:
-- **Weak Ontology:** Rejects fixed, universal foundations of being. Reality and identity are seen as **constructed, contingent, and context-dependent**. There is no single "true" structure of existence.
-- **Strong Ontology:** Assumes a **stable, objective reality** that exists independently of human perception, language, or culture. Common in modernist, realist, and essentialist philosophies.
+#### 1. From "Captain of the Ship" to "Node in a Network"
+- **Modernist View:** The self is like a **captain of a ship**—a stable, autonomous soul or ego in control of identity and destiny.
+- **Postmodern View:** The self is a **flow** or a **node in a network**—constantly shaped and reshaped by social, technological, and cultural connections.
+
+#### 2. The Onion Theory (No Center)
+- **Modern View (Descartes – Peach Metaphor):** Identity has a **hard core** (the "Real You") beneath surface behavior.
+- **Postmodern View (Onion Metaphor):** Identity is **layer upon layer** of social roles, cultural influences, and biological drives. Peel all layers and you find **nothing at the center**. **The layers *are* the self.**
+
+#### 3. The Narrative Self: "We are a Story, not a Thing"
+- Identity is not a stable entity but an **ongoing autobiography** we constantly rewrite.
+- We **edit our memories and past** to create a coherent plot, meaning the "self" is always a **work-in-progress narrative**, not a fixed truth.
+
+#### 4. The "Saturated Self" and Multiphrenia
+- **Historical Context:** In the past, identity was stable due to limited social exposure (e.g., village life).
+- **Digital Age Crisis:** Today, we are exposed to **thousands of identities, opinions, and roles** online (e.g., professional on LinkedIn, anonymous on Twitter, personal on Instagram).
+- **Result:** **Multiphrenia**—the splitting of the self into **multiple, often contradictory self-investments**. We don't just wear masks; we live **parallel lives**.
+
+#### 5. "We Are 'Spoken' by Language"
+- **Concept:** We do not use language to express inner thoughts; **language uses us**.
+- **Explanation:** We can only think thoughts for which we have words, and those words are **socially constructed**. Therefore, our "inner self" is made of **recycled cultural scripts**.
+- **Quote (Rimbaud):** *"Je est un autre"* ("I is another")—the speaking "I" is already shaped by external language and culture.
 
 ---
+
+### Stable Identity (*Identitate stabilă*)
+- Associated with **modernism** and premodern thought (e.g., Descartes, essentialism).
+- Assumes a **unified, continuous, and coherent self**—an inner essence or soul that remains consistent over time.
+- Identity is seen as **innate, authentic, and discoverable** through introspection or reason.
+
+
 
 # 16. Postmodernism. Language, in Modernism vs. in Postmodernism, Metanarratives, Death of the Author
 
@@ -269,27 +290,44 @@ Postmodernism advocates a **weak ontology**:
 
 | Aspect | Modernism | Postmodernism |
 |--------|-----------|---------------|
-| **View of Language** | **Transparent, representational** – language accurately mirrors reality. Words are labels for pre-existing things/ideas. | **Opaque, constitutive** – language constructs reality. Meaning is unstable, deferred, and shaped by difference and context. |
-| **Function** | Tool for clear communication, expression of universal truths, and objective description. | A system of **signs** where meaning arises from **difference** (Saussure) and is endlessly deferred (*différance*, Derrida). |
-| **Relation to Truth** | Language can convey objective, universal truth. | Truth is linguistically and socially constructed; there is no neutral access to reality outside language. |
-| **Metaphor** | **Clear window/mirror** reflecting reality. | **Stained-glass window** that colors and shapes what we perceive as reality. |
+| **View of Language** | **Transparent, representational** – language acts like a clear window or mirror, accurately reflecting reality. | **Opaque, constitutive** – language is a stained-glass window that colors and shapes reality. We only ever see concepts shaped by language, not reality itself. |
+| **Function** | Neutral tool for labeling and describing pre-existing objects and ideas. | Active system that constructs our understanding of reality. Meaning is created through language, not discovered through it. |
+| **Relation to Truth** | Language can convey objective, universal truth. | Truth is linguistically and socially constructed; there is no direct access to objective reality outside of language. |
+| **Metaphor** | **Clear window/mirror** | **Stained-glass window** |
 
-### The "Linguistic Turn" in Postmodernism
-- Language does not simply describe reality—it **creates** it.
-- Meaning is not fixed but arises from **difference** within a system of signs (e.g., "light" is defined in relation to "dark").
-- **Jacques Derrida's *différance***: Meaning is always **deferred**—endlessly postponed through an endless chain of signifiers.
+### Key Postmodern Ideas About Language:
 
-### Metanarratives (*Grand Narratives*)
-- **Definition:** Overarching stories or theories that claim to explain **history, society, and human experience** in a universal, objective way (e.g., Progress, Marxism, Christianity, Science).
-- **Postmodern Critique (Lyotard):** Postmodernism is defined by **incredulity toward metanarratives**. These narratives are seen as **totalizing, oppressive, and exclusionary**, masking diversity and serving power structures.
-- **Result:** Emphasis on **local narratives**, **pluralism**, and **micronarratives** that acknowledge multiple perspectives and contingencies.
+#### 1. The Arbitrary Sign (Ferdinand de Saussure)
+- **Signifier:** The sound or written form of a word (e.g., "T-R-E-E").
+- **Signified:** The mental concept or idea it represents (the concept of a tree).
+- **Arbitrariness:** There is **no natural connection** between the signifier and signified. The word "tree" is arbitrary—it could be "arbre" (French) or "copac" (Romanian). Meaning is a social convention, not a reflection of reality.
 
-### Death of the Author
-- **Introduced by:** **Roland Barthes** in his 1967 essay *"The Death of the Author."*
-- **Meaning:** The **author's intentions, biography, and authority are irrelevant** to interpreting a text. Once written, the text becomes autonomous.
-- **Key Idea:** Meaning is created by **the reader**, not dictated by the author. The text is an open field of **playful signification**, shaped by the reader's context, culture, and language.
-- **Postmodern Justification:** Because language is a public, slippery system, the author loses control over meaning as soon as the text enters circulation.
-- **Analogy:** The author is like someone throwing a message in a bottle into the ocean (language/culture); the reader on the shore decides what it means.
+#### 2. *Différance* and the Infinite Delay of Meaning (Jacques Derrida)
+- **Meaning Through Difference:** Words gain meaning only in **relation to other words** (e.g., "light" vs. "dark," "up" vs. "down").
+- **The Dictionary Trap:** Looking up a word leads to more words, in an endless chain. Meaning is **deferred**—always postponed, never final.
+- **Result:** There is **no stable, ultimate truth** in language; meaning is always slippery, contextual, and open to reinterpretation.
+
+#### 3. We Cannot Think Outside of Language
+- Language **shapes the limits of our reality**. We can only think thoughts for which we have words.
+- If a language lacks a word for an emotion or concept, speakers may not fully experience or understand it.
+- **We do not use language to express thoughts; language creates our thoughts.**
+
+#### 4. Language is Political (Michel Foucault)
+- **Discourse:** The way language is used within institutions (medicine, law, education) shapes what is considered "true," "normal," or "deviant."
+- **Example – Mental Illness:** In the past, unusual behavior was labeled "possession"; today, it is "schizophrenia." The **label changes social treatment** (exorcism vs. medication).
+- **Power:** Those who control discourse (doctors, politicians, media) **control reality** by defining terms and categories.
+
+### Metanarratives (Grand Narratives)
+- **Definition:** Overarching stories or theories that claim universal truth and explain history, society, or human purpose (e.g., Progress, Marxism, Christianity, Science).
+- **Postmodern Critique (Lyotard):** Postmodernism is defined by **incredulity toward metanarratives**. These stories are seen as **totalizing, oppressive, and exclusionary**—they mask diversity and serve power structures.
+- **Why They Crumble:** Because language is unstable (words like "freedom," "progress," "truth" have no fixed meaning), the grand narratives built on them are also unstable.
+
+### Death of the Author (Roland Barthes)
+- **Concept:** The **author’s intentions, biography, and authority are irrelevant** to interpreting a text. Meaning is not fixed by the author.
+- **Why?** Language is a public, slippery system. Once a text is written, it enters the "ocean of language," where meaning is shaped by readers, culture, and context.
+- **Reader's Role:** The **reader creates meaning** through their own interpretation, based on their cultural background and the shifting meanings of words.
+- **Analogy:** The author throws a message in a bottle (the text) into the ocean (language/culture). The person who finds it (the reader) decides what it means.
+
 
 
 # 17. Posthumanism. Post- vs trans-, their roots, what is common, the difference, how we apply it (AI?) 
