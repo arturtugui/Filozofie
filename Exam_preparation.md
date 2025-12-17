@@ -1,6 +1,70 @@
 # Pregătire pentru biletele de la examenul de filozofie (7 - 11 were checked with the slides)
 
-# 1. Worldview 
+# 1. Worldview: Definition, Components, and Impact
+
+### 1. What is a Worldview?
+A **worldview** is a foundational framework through which an individual or culture interprets reality, makes sense of life, and guides behavior. It consists of the **basic assumptions, commitments, and guiding truths**—often subconscious—that shape how we see the world, much like a pair of glasses through which we view everything.
+
+As defined by **James Sire**, a worldview is:
+> "A commitment, the fundamental orientation of the heart... expressed as a story or a set of presuppositions... about the basic constitution of reality, and that provides the foundation on which we live and move and have our being."
+
+### 2. Main Components of a Worldview
+Worldviews are structured around several philosophical categories:
+
+| Component | Focus | Example Questions |
+|-----------|--------|-------------------|
+| **Ontology** | Nature of reality, being, existence | What is real? Does God exist? |
+| **Epistemology (Gnoseology)** | Nature of knowledge and truth | How do we know what is true? |
+| **Axiology** | Values, ethics, and aesthetics | What is good? What is beautiful? |
+| **Anthropology** | Nature of humanity | Who are we? What is human purpose? |
+| **Logic** | Principles of reasoning | How do we reason validly? |
+| **Ethics** | Moral principles | How should we act? |
+| **Aesthetics** | Nature of beauty and art | What is art? What moves us? |
+
+### 3. How a Worldview Shapes Individuals and Decisions
+- **Shapes perception:** Filters how we interpret events, information, and relationships.
+- **Guides behavior:** Informs moral choices, goals, and daily actions.
+- **Provides meaning:** Answers existential questions (purpose, death, identity).
+- **Influences identity:** Defines personal and collective sense of self.
+- **Directs decision-making:** Acts as an internal compass in uncertain situations.
+
+### 4. Importance of an Explicit Worldview
+- **In academic life:** Encourages critical thinking, helps evaluate arguments, and reveals biases in research and theory.
+- **In social life:** Promotes self-awareness, improves communication, and fosters empathy by understanding diverse perspectives.
+- **For critical thinking:** Helps identify underlying assumptions, avoid logical fallacies, and engage in reasoned debate.
+
+---
+
+### 5. Hypothetical Situation: University Discussion on a Controversial Issue
+
+#### Scenario:
+You are in a university discussion on a controversial social/ethical issue (e.g., abortion, climate policy, AI ethics). Participants strongly disagree and talk past each other. You realize the disagreement is rooted not only in facts but in **different worldviews**.
+
+#### A) Which worldview assumptions may be influencing positions?
+- **Ontological differences:** Is human life sacred from conception? Is nature intrinsically valuable?
+- **Epistemological differences:** Do they trust science, religion, personal experience, or tradition as sources of truth?
+- **Axiological differences:** What is prioritized—individual rights, collective good, freedom, or security?
+- **Anthropological differences:** Is humanity inherently good, flawed, or neutral? Are humans separate from or part of nature?
+- **Ethical differences:** Is morality absolute or relative? Based on consequences, duties, or virtues?
+
+#### B) What options do you have to engage constructively?
+1. **Ask clarifying questions:** "What underlying values or beliefs inform your position?"
+2. **Identify common ground:** Find shared goals or concerns (e.g., "We all care about human dignity").
+3. **Map worldview differences:** Make implicit assumptions explicit without judgment.
+4. **Practice active listening:** Paraphrase others' views to ensure understanding.
+5. **Shift from debate to dialogue:** Aim to understand, not just to win.
+6. **Use respectful language:** Avoid labels, generalizations, and emotional triggers.
+
+#### C) Why is it important to recognize and reflect on worldviews?
+- **Promotes understanding:** Reveals why people think and act differently.
+- **Enables respectful dialogue:** Reduces hostility by separating person from position.
+- **Improves critical thinking:** Helps evaluate the strength of one’s own and others' arguments.
+- **Supports responsible decision-making:** Encourages decisions based on examined beliefs, not unconscious bias.
+- **Fosters intellectual humility:** Recognizes that our worldview is one among many, not absolute truth.
+
+---
+
+**Conclusion:** A worldview is the invisible architecture of the mind. Making it explicit allows for more intentional living, deeper dialogue, and wiser decisions in both personal and public life.
 
 # 2. Metoda socratică. Arta de a pune întrebări 
 
